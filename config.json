@@ -1,10 +1,12 @@
 {
   "SYSTEM_AUTHORITY": "RHA_CIVIC_RESEARCH",
-  "CLEARANCE_GATEWAY_URL": "https://decoderha.pages.dev",
-  "PRIMARY_AUTH_PASSKEY": "RSRX-INDIA",
+  "ENDPOINT_URI": "https://decoderha.pages.dev",
+  "STATIC_PASSKEY": "RSRX-INDIA",
   "DATASET_SCOPE": "NEET_SEAT_QUOTA_AND_CONTEXT_REPORTS",
   "AUTHORIZATION_LEVEL": "ASPIRANT_LEVEL_1",
   "CLEARANCE_STATUS": "PUBLIC_REPORT_ACTIVE",
   "CONTENT_TYPE": "Independent OSINT-style synthesis + data appendix",
-  "EXPECTATION": "Public evidence, labelled analysis, and scorecards. No internal exam data."
+  "EXPECTATION": "Public evidence, labelled analysis, and scorecards. No internal exam data.",
+  "PRIORITY_SIGNAL": "HIGH",
+  "LAST_PULSE": "2026-08-14T11:00:00Z"
 }
